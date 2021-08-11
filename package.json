@@ -1,13 +1,13 @@
 {
-  "name": "plugins",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "gatsby-source-remote-csv",
+  "version": "0.0.0",
+  "description": "Source data from a remote csv endpoint to gatsby.js",
+  "main": "gatsby-node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "natejsimonsen",
   "license": "ISC",
   "dependencies": {
     "gatsby-source-filesystem": "^3.9.0",
